@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">InstaDev</string>
+    <!--    Register screen-->
+    <string name="register_screen_phone_header_text">¿Cuál es tu número de móvil?</string>
+    <string name="register_screen_instructions_phone_text">Introduce tu número de móvil de contacto. Nadie lo verá en tu perfil.</string>
+    <string name="register_screen_instructions_remember_phone_text">Puede que recibas notificaciones nuestras en WhatsApp y por SMS por motivos de seguridad y para iniciar sesión.</string>
+    <string name="register_screen_textfield_phone">Número de móvil.</string>
+    <string name="register_screen_button_continue">Siguiente</string>
+    <string name="register_screen_button_register_email">Registrate con tu correo electrónico</string>
+
+    <string name="register_screen_email_header_text">¿Cuál es tu correo electrónico?</string>
+    <string name="register_screen_instructions_email_text">Introduce tu correo electrónico de contacto. Nadie lo verá en tu perfil.</string>
+    <string name="register_screen_instructions_remember_email_text">Tambien te envíaremos correos electrónicos. Puedes cancelar esta opción cuando quieras.</string>
+    <string name="register_screen_more_information">Más información.</string>
+    <string name="register_screen_textfield_email">Correo electrónico.</string>
+    <string name="register_screen_button_register_phone">Registrate con tu número de teléfono</string>
+
+    <!--    Login Screen-->
+    <string name="login_screen_header_text_mx">Español (MX)</string>
+    <string name="login_screen_textfield_email">Usuario, correo electrónico o móvil</string>
+    <string name="login_screen_textfield_password">Contraseña</string>
+    <string name="login_screen_button_login">Iniciar sesión</string>
+    <string name="login_screen_textfield_forgot_password">¿Has olvidado la contraseña?</string>
+    <string name="login_screen_button_register">Crear cuenta nueva</string>
 </resources>
